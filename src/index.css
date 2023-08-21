@@ -79,3 +79,43 @@ html {
     transition: all .2s ease;
     transition: var(--buttonTransition);
 }
+
+/* End of Nav bar CSS */
+
+.main-div-container {
+    flex-direction: column;
+    /* display: flex; */
+
+}
+
+.container-one {
+    display: flex;
+    border: 1px solid red;
+    
+}
+
+.img-one {
+    border: 1px solid blue;
+    width: 50%;
+}
+
+.img-two {
+    border: 1px solid blue;
+    width: 50%;
+}
+
+.container-two {
+    display: flex;
+    border: 1px solid red;
+}
+
+.container-three {
+    display: flex;
+    border: 1px solid red;
+
+}
+
+.container-four {
+    border: 1px solid red;
+    
+}
